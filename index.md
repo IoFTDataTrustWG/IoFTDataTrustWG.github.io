@@ -7,15 +7,15 @@ title: IoFT Working Group: Data Sharing and Interoperability
 
 The working group investigates potential technological solutions to the challenges of data sharing within data trusts for the agri-food sector.
 
-## Related Publications
-
-TBA
-
 
 ## Events
 
 4 Nov 2020 - Workshop: Data Sharing and Interoperability for Data Trusts [online] <a href="https://ioftdatatrustwg.github.io/workshop4Nov2020/">more info</a>
 
+
+## Related Publications
+
+TBA
 
 ## Acknowledgments
 
