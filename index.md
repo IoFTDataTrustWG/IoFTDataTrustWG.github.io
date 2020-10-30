@@ -10,7 +10,7 @@ The working group investigates potential technological solutions to the challeng
 
 ## Events
 
-4 Nov 2020 - Workshop: Data Sharing and Interoperability for Data Trusts [online] <a href="https://ioftdatatrustwg.github.io/workshop4Nov2020/">more info</a>
+4 Nov 2020 - Workshop: Data Sharing and Interoperability for Data Trusts [online] <a target="_blank" href="https://ioftdatatrustwg.github.io/workshop4Nov2020/">more info</a>
 
 
 ## Related Publications
