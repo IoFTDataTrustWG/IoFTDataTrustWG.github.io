@@ -12,7 +12,7 @@ The working group investigates potential technological solutions to the challeng
 
 1 March 2021 - Workshop: How Technology Can Facilitate Data Sharing In The Agri-Food Sector [online] Register for tickets <a href="https://www.eventbrite.co.uk/e/how-technology-can-facilitate-data-sharing-in-the-agri-food-sector-tickets-141264270235"> here </a>
 
-4 Nov 2020 - Workshop: Data Sharing and Interoperability for Data Trusts [online] <a  href="https://ioftdatatrustwg.github.io/workshop4Nov2020/">more info</a>
+4 Nov 2020 - Workshop: Data Sharing and Interoperability for Data Trusts [online] <a  href="https://ioftdatatrustwg.github.io/workshop4Nov2020/">more info</a> <a href="https://github.com/IoFTDataTrustWG/workshop4Nov2020/tree/main/Slides"> [Slides]</a> <a href="http://doi.org/10.5281/zenodo.4282177">[Workshop Report]</a>
 
 
 ## Related Publications
