@@ -21,6 +21,8 @@ The working group investigates potential technological solutions to the challeng
 
 [2] Durrant, A., Markovic, M., Matthews, D., May, D., Leontidis, G. and Enright, J., 2021. How might technology rise to the challenge of data sharing in agri-food?. Global Food Security, 28, p.100493.
 
+[3] Durrant, A., Markovic, M., Matthews, D., May, D., Enright, J. and Leontidis, G., 2022. The role of cross-silo federated learning in facilitating data sharing in the agri-food sector. Computers and Electronics in Agriculture, 193, p.106648.
+
 ## Acknowledgments
 
 The working group is supported by an award made by the UKRI, EPSRC funded Internet of Food Things Network+ grant EP/R045127/1.
