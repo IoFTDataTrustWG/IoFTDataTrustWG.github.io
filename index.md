@@ -5,7 +5,7 @@ title: IoFT Working Group: Data Sharing and Interoperability
 
 ## About
 
-The working group investigates potential technological solutions to the challenges of data sharing within data trusts for the agri-food sector.
+The working group investigated potential technological solutions to the challenges of data sharing within data trusts for the agri-food sector.
 
 
 ## Events
